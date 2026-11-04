@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wizard Score</string>
+    <style name="AppTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF14112B</item>
+        <item name="android:statusBarColor">#FF14112B</item>
+        <item name="android:navigationBarColor">#FF14112B</item>
+        <item name="android:colorPrimary">#FF231E48</item>
+        <item name="android:colorPrimaryDark">#FF14112B</item>
+        <item name="android:colorAccent">#FFF2C14E</item>
+    </style>
+</resources>
